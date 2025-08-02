@@ -1,4 +1,4 @@
-# 🧠  Java DSA Practice
+# 🧠  Java DSA Practice :
 
 Welcome to my daily Java-based Data Structures and Algorithms (DSA) practice repository! This repo tracks my problem-solving journey, with a focus on mastering DSA concepts using Java.
 
